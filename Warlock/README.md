@@ -18,3 +18,7 @@
 - [Nightfall Proc](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Nightfall%20Proc)
 - [Shadow Bolts](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Shadow%20Bolts)
 - [SoulShards](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/SoulShards.txt)
+- [Warlock UI](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Warlock%20UI)
+  - The numbers at the top are how many casts you can do before you go oom. Purple (left side) Shadowbolt and green (right side) is Seed of Corruption. (NOW UPDATED, Sorry 2.4.3 WA makes it hard to do the "show only yours" for dots but me and a friend found a work around and its basically fixed. It wont grey out when your dots are not on the boss but it WILL only show the timers of your own dots now.)
+
+    ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/90982783/7671c017-ca8d-47ff-87df-471035426356)
