@@ -1,6 +1,6 @@
-# TBC 2.4.3 WeakAura Imports Project
+# TBC 2.4.3 WeakAura Imports Archive Project
 
-> Inspiration and guidance for WeakAura making.
+> Archival of Weakaura strings
 
 ---
 
