@@ -25,6 +25,10 @@
     ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/90982783/ff52290a-2067-464b-9bdc-32776e288444)
     ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/90982783/a002ae1b-2856-4f26-93fc-7618daf4e2d0)
 
+- [Warlock Dualspec:Actionbarsaver Swap Netherwing 2.4.3 TBC](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Warlock%20Dualspec%3AActionbarsaver%20Swap%20Netherwing%202.4.3%20TBC)
+  - Made a dualspec/abs swap weakaura for warlocks you have to name your 2 sets (destro/affliction) for it to work right. But it's super nice compared to the manual way
+
+    https://www.youtube.com/watch?v=yx8J9vMq6ZI
 - [Warlock UI](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Warlock%20UI)
   - The numbers at the top are how many casts you can do before you go oom. Purple (left side) Shadowbolt and green (right side) is Seed of Corruption. (NOW UPDATED, Sorry 2.4.3 WA makes it hard to do the "show only yours" for dots but me and a friend found a work around and its basically fixed. It wont grey out when your dots are not on the boss but it WILL only show the timers of your own dots now.)
 
