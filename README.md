@@ -1,4 +1,5 @@
 # TBC 2.4.3 WeakAura Imports Archive Project
+![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/90982783/3693cecb-69cf-412a-89d9-8929112a05c2)
 
 > Archival of Weakaura strings
 
