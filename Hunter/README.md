@@ -8,8 +8,7 @@
     - Due to the nature of TBC events, will also pick up your party members' triggered traps, but should show both yours and theirs next to each other
     - UPDATE: Includes Snake Trap now!
 
-      ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/90982783/39cc0f0f-a8dd-401b-beb9-3306fa17f967)
-
+      ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/90982783/ed7b1a95-d60f-4f6a-b234-abc49a977c89)
 
 - [Text](link)
   - Description
