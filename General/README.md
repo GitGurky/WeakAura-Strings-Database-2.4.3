@@ -15,8 +15,7 @@
   - PvE Enemy Reflection Alert (WIP)
     - When NPCs such as mobs in BOT, final boss of SV activate their reflection the alert will appear
 
-      ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/90982783/3bd0ee71-56b1-4f33-8f3f-5cce51e1e0d8)
-
+      ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/90982783/37d533f5-7bd7-4684-838c-5358d880b11f)
 
 - [ManaTick](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/General/WA_ManaTick.txt)
   - WeakAura ticks beyond the 5-second rule.
