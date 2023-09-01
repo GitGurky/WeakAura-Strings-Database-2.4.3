@@ -16,6 +16,10 @@
     ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/4d23dc69-22a2-44f8-adda-79bbeb5f862b)
 
 - [Fel Armor Reminder](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Fel%20Armor%20Reminder)
+ - Add an icon to remind you to use Demon Armor or Fel Armor buff
+
+    ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/f6ee7a11-08de-45f9-81bb-e4bea4134bbf)
+
 - [MotherWarlock](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/MotherWarlock)
 - [NightBack](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/NightBack.txt)
   - Will show the nightfall icon in the middle of your screen if your Shadow Trance or Backlash procs!
