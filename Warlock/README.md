@@ -57,6 +57,9 @@
 
     https://www.youtube.com/watch?v=yx8J9vMq6ZI
 
+    ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/62f40a3d-7111-405c-adbd-5fabb806c592)
+
+
 - [Warlock UI](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Warlock%20UI)
   - The numbers at the top are how many casts you can do before you go oom. Purple (left side) Shadowbolt and green (right side) is Seed of Corruption. (NOW UPDATED, Sorry 2.4.3 WA makes it hard to do the "show only yours" for dots but me and a friend found a work around and its basically fixed. It wont grey out when your dots are not on the boss but it WILL only show the timers of your own dots now.)
 
