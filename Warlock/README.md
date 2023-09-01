@@ -11,6 +11,10 @@
     ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/628ff314-bd73-411c-b4d2-8bfb3f8819e3)
 
 - [Doom Reminder](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Doom%20Reminder)
+  - Add Curse of Doom timer
+
+    ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/4d23dc69-22a2-44f8-adda-79bbeb5f862b)
+
 - [Fel Armor Reminder](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Fel%20Armor%20Reminder)
 - [MotherWarlock](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/MotherWarlock)
 - [NightBack](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/NightBack.txt)
