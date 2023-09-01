@@ -3,7 +3,7 @@
 - [Backlash Proc](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Backlash%20Proc)
   - Show Backlash proc
   
-![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/2133450d-30b7-49d5-be85-18c9cb1312af)
+    ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/2133450d-30b7-49d5-be85-18c9cb1312af)
 
 - [Demonic Sac Reminder](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Demonic%20Sac%20Reminder)
 - [Doom Reminder](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Doom%20Reminder)
