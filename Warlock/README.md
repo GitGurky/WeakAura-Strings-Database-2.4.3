@@ -6,7 +6,7 @@
     ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/2133450d-30b7-49d5-be85-18c9cb1312af)
 
 - [Demonic Sac Reminder](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Demonic%20Sac%20Reminder)
- - Add an icon when Demonic Sacrifice buff is missing to remind you to use it.
+  - Add an icon when Demonic Sacrifice buff is missing to remind you to use it.
 
     ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/628ff314-bd73-411c-b4d2-8bfb3f8819e3)
 
