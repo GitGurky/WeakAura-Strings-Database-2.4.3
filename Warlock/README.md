@@ -31,6 +31,10 @@
     ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/90982783/01ad7c55-b7c7-4f82-83b7-6834a1615730)
 
 - [Nightfall Proc](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Nightfall%20Proc)
+  - Show Nightfall proc
+
+    ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/3037bd11-db2a-4783-9b43-9916804f450d)
+
 - [Shadow Bolts](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Shadow%20Bolts)
 - [SoulShards](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/SoulShards.txt)
   - Soul Shards icon will disappear if you have more then an certain amount of shards (set to 20 by default)
