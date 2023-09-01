@@ -36,6 +36,10 @@
     ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/3037bd11-db2a-4783-9b43-9916804f450d)
 
 - [Shadow Bolts](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/Shadow%20Bolts)
+  - Show you how many Shadow Bolts you can cast based on you current mana
+
+    ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/7e3b6c32-e25f-4eb1-a982-6c12a34d2654)
+
 - [SoulShards](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/SoulShards.txt)
   - Soul Shards icon will disappear if you have more then an certain amount of shards (set to 20 by default)
 
