@@ -21,6 +21,10 @@
     ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/f6ee7a11-08de-45f9-81bb-e4bea4134bbf)
 
 - [MotherWarlock](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/MotherWarlock)
+  - d
+
+    ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/49492400-b1ab-4650-9579-084a99476bdc)
+
 - [NightBack](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warlock/NightBack.txt)
   - Will show the nightfall icon in the middle of your screen if your Shadow Trance or Backlash procs!
 
