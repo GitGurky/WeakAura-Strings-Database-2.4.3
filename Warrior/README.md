@@ -9,6 +9,8 @@
   - This string will show an icon when your Overpower is usable
 
       ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/90982783/185eeb68-f262-46b7-bae7-9e4b1ec9885d)
+      ![image](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/assets/47739411/1e3c0714-c6dd-4b4f-8350-f2732c49b05c)
+
 
 - [Shield_-_Spell_Reflection_Intercept_and_Charge_CDs](https://github.com/GitGurky/WeakAura-Strings-Database-2.4.3/blob/main/Warrior/Shield_-_Spell_Reflection_Intercept_and_Charge_CDs.txt)
   - Spell Reflection / Shield WA: will show if you have a shield equipped (change shield name inside wa for the one you are using (trigger1)), will show how much of spell reflection you are left with after reflecting anything or buff going away - will show how much of a CD for SR is left. Additionally, there are two more auras for charge and intercept - they will appear if abilities are on cooldown, will go grey if they are not usable (checks stance and rage), and will be highlighted if you can use them
